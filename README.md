@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+# DriveWise AI Rental
 
-## Project info
+DriveWise is a modern car-rental web application focused on making vehicle discovery and rental management simple, clear, and user-friendly.
 
-**URL**: https://lovable.dev/projects/85dbf9fe-173c-4b9c-aa49-c862d81dacff
+## Highlights
 
-## How can I edit this code?
+- Responsive interface for browsing rental vehicles
+- Modern component-based frontend architecture
+- Strong focus on usability and visual consistency
+- Foundation for AI-assisted rental experiences
 
-There are several ways of editing your application.
+## Built with
 
-**Use Lovable**
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Supabase
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/85dbf9fe-173c-4b9c-aa49-c862d81dacff) and start prompting.
+## Getting started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+- Node.js 18+
+- npm
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+git clone https://github.com/BRIKIAchraf/drivewise-ai-rental.git
+cd drivewise-ai-rental
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open the local development URL shown by Vite in your browser.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Available scripts
 
-**Use GitHub Codespaces**
+| Command | Purpose |
+| --- | --- |
+| `npm run dev` | Start the development server |
+| `npm run build` | Create a production build |
+| `npm run lint` | Check the codebase with ESLint |
+| `npm run preview` | Preview the production build locally |
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Project status
 
-## What technologies are used for this project?
+This project is actively evolving. Feedback, suggestions, and collaboration are welcome.
 
-This project is built with:
+## Author
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**Achraf BRIKI**
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/85dbf9fe-173c-4b9c-aa49-c862d81dacff) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- GitHub: [@BRIKIAchraf](https://github.com/BRIKIAchraf)
+- LinkedIn: [Achraf BRIKI](https://www.linkedin.com/in/ashraf-breki-80b652234/)
